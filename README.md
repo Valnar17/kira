@@ -2,6 +2,8 @@
 
 A user-friendly web dashboard for managing Supervisor processes across multiple servers.
 
+![Screenshot](Images/Screenshot.png)
+
 ## 🚀 Features
 
 - **Multi-Server Support**: Manage multiple Supervisor instances from a single dashboard
